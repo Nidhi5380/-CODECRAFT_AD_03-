@@ -1,22 +1,17 @@
 # -CODECRAFT_AD_03-
-TIC_TAC_TOE GAME APP
+STOPWATCH APP
 
-A simple Tic Tac Toe game implemented in python.This project is designed for fun,learning,and practicing programming skills.
+A simple and functional stopwatch application built using Python.
 
 Features:
 
-player vs player mode
+START: Begin timing with the press of a button.
+STOP: Pause the timer at any moment.
+RESET: Reset the timer to zero.
 
-simple and inituitive user interface
+Usage
+1.click the Start button to start the timer.
+2.click the Stop to pause the timer.
+3.click Reset to reset the timer back to 00:00:00.
 
-How to play: 
-
-The game is played on a 3x3 grid 
-Players take turns marking a square with their symbol(X or O).
-The first player to get three symbols in a row(horizontally,vertically,or diagonally)wins.
-If all squares are filled and no player has three in a row, the game ends in a draw.
-Option to restart the game after a game ends  
-
-Technologies Used:
-
-Python
+simple and inituitive user interface.
