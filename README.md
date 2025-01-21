@@ -6,6 +6,7 @@ A simple Tic Tac Toe game implemented in python.This project is designed for fun
 Features:
 
 player vs player mode
+
 simple and inituitive user interface
 
 How to play: 
